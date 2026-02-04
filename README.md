@@ -7,7 +7,7 @@ An eCommerce UI built from scratch, including essential components such as a nav
 ## Project Images
 
 <div align="center">
-  <h3>Home Pages</h3>
+  <h3>Home Page</h3>
   <img src="images/ecom1.png" alt="Home Page" style="max-width: 100%; height: auto;" />
 </div>
 
