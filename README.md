@@ -6,11 +6,24 @@ An eCommerce UI built from scratch, including essential components such as a nav
 
 ## Project Images
 
-![Home Page](images/ecom1.png)
+<div align="center">
+  <h3>Home Page</h3>
+  <img src="images/ecom1.png" alt="Home Page" style="max-width: 100%; height: auto;" />
+</div>
 
-![Category Page](images/ecom2.png)
+<br>
 
-![Checkout Page](images/ecom3.png)
+<div align="center">
+  <h3>Category Page</h3>
+  <img src="images/ecom2.png" alt="Category Page" style="max-width: 100%; height: auto;" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Checkout Page</h3>
+  <img src="images/ecom3.png" alt="Checkout Page" style="max-width: 100%; height: auto;" />
+</div>
 
 ---
 
